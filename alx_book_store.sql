@@ -1,3 +1,5 @@
+  # A Magical Database for Your Dream Online Bookstore Adventure! :  
+
 -- Create the database
 CREATE DATABASE alx_book_store;
 USE alx_book_store;
